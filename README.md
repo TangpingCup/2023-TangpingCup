@@ -8,7 +8,9 @@ by Bytes Security
 
 主页：[weilei.studio](https://weilei.studio)
 
-
+# 他妈的，请在生产环境（master）里删除所有目录下的.gitkeep文件，gitkeep只是为了他妈的push空文件夹结构
+# master目前是空的，merge过去的时候记得删掉这些垃圾文字
+# 他妈不然脸就丢大了（）
 
 ## 组织单位
 
