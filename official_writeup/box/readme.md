@@ -14,6 +14,7 @@
 
 注意，原始照片为origin.jpg,修改后的照片是date.jpg!
 
+### 官方解
 
 此题目主要考察了选手对exif信息的提取能力，常见的分析工具有metadata++和exiftool
 
