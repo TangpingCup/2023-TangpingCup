@@ -6,7 +6,7 @@
 | 选手 | 公开理由 | 总分 | 授权 | Happy2023 | Misc | Web | Algorithm | Binary |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [username(这是模板)](uid/) | (选手要求/特殊解法/其他按需填写) | 以比赛结束的成绩为准 | TOBEFILLED | `UNK` | `UNK` | `UNK` | `UNK` | `UNK` |
-| [御坂美琴](54/) | 没有验题的验题人 | TOTAL_SCORE | CC BY-NC 4.0 | `P` | `PPPPP` | `PPP` | `PP` | `PP` |
+| [御坂美琴](54/) | 没有验题的验题人 | TOTAL_SCORE | All-Rights-Reserved | `P` | `PPPPP` | `PPP` | `PP` | `PP` |
 
 **关于授权方式：**
 
