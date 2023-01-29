@@ -8,6 +8,12 @@
 ## 题目描述
 
 <p>测测你的码（bushi）</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+汉信码，PDF417，Aztec……你可能需要一个能识别一切的网站？
+</p>
+</div>
 
 **[【附件：下载题目附件（flag1.zip）】](attachment/flag1.zip)**
 

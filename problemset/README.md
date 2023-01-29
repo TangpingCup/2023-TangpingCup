@@ -2,30 +2,30 @@
 
 | 分类 | # | 官方题解和源码 | 题目标题 | Flag | 分值 | 总通过 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Misc | form | [→ form](../official_writeup/form/) | 签退 | / | 100 | 30+0 |
-| Happy2023 | prob01 | [→ happy2023](../official_writeup/happy2023/) | Happy2023! | / | 500 | 20+0 |
-| Misc | prob02 | [→ checkin](../official_writeup/checkin/) | 签到 | / | 100 | 61+0 |
-|  | prob03 | [→ tpask](../official_writeup/tpask/) | 躺平问答 | 部分的题目 | 100 | 15+0 |
-|  |  |  |  | 全部的题目 | 200 | 8+0 |
-|  | prob04 | [→ 2dcodes](../official_writeup/2dcodes/) | 二维的码 | 来自理塘的码 | 150 | 9+0 |
-|  |  |  |  | 你管这叫码？ | 200 | 9+0 |
-|  |  |  |  | 来自兔年的码 | 400 | 7+0 |
-|  | prob05 | [→ mysterious](../official_writeup/mysterious/) | 神秘的……文字？ | 这么简单 | 200 | 5+0 |
-|  |  |  |  | 毕加思索 | 300 | 4+0 |
-|  |  |  |  | 喵？咕？唔~ | 400 | 4+0 |
-| Web | prob06 | [→ http](../official_writeup/http/) | HTTP百解 | 神之眼 | 50 | 69+0 |
-|  |  |  |  | 导引内卷之力 | 200 | 14+0 |
-|  | prob07 | [→ tpask_beta](../official_writeup/tpask_beta/) | 躺平问答 · Beta版 | 简单的问答 | 100 | 17+0 |
-|  | prob08 | [→ wearme](../official_writeup/wearme/) | WearMe 核心机房 准入验证 | 我去，你怎么在这 | 100 | 8+0 |
+| Misc | form | [→ form](../official_writeup/form/) | 签退 | / | 100 | 60+0 |
+| Happy2023 | prob01 | [→ happy2023](../official_writeup/happy2023/) | Happy2023! | / | 500 | 20+3 |
+| Misc | prob02 | [→ checkin](../official_writeup/checkin/) | 签到 | / | 100 | 62+18 |
+|  | prob03 | [→ tpask](../official_writeup/tpask/) | 躺平问答 | 部分的题目 | 100 | 16+0 |
+|  |  |  |  | 全部的题目 | 200 | 8+1 |
+|  | prob04 | [→ 2dcodes](../official_writeup/2dcodes/) | 二维的码 | 来自理塘的码 | 150 | 9+11 |
+|  |  |  |  | 你管这叫码？ | 200 | 9+8 |
+|  |  |  |  | 来自兔年的码 | 400 | 8+5 |
+|  | prob05 | [→ mysterious](../official_writeup/mysterious/) | 神秘的……文字？ | 这么简单 | 200 | 5+5 |
+|  |  |  |  | 毕加思索 | 300 | 4+5 |
+|  |  |  |  | 喵？咕？唔~ | 400 | 4+1 |
+| Web | prob06 | [→ http](../official_writeup/http/) | HTTP百解 | 神之眼 | 50 | 69+15 |
+|  |  |  |  | 导引内卷之力 | 200 | 14+1 |
+|  | prob07 | [→ tpask_beta](../official_writeup/tpask_beta/) | 躺平问答 · Beta版 | 简单的问答 | 100 | 17+12 |
+|  | prob08 | [→ wearme](../official_writeup/wearme/) | WearMe 核心机房 准入验证 | 我去，你怎么在这 | 100 | 9+5 |
 |  |  |  |  | 我测，黑客！ | 200 | 8+0 |
-| Misc | prob09 | [→ box](../official_writeup/box/) | 我抄，盒！ | 照片中的flag | 50 | 27+0 |
-|  |  |  |  | 网站中的flag | 100 | 22+0 |
-| Algorithm | prob10 | [→ rsa](../official_writeup/rsa/) | 口算大整数 | / | 300 | 12+0 |
+| Misc | prob09 | [→ box](../official_writeup/box/) | 我抄，盒！ | 照片中的flag | 50 | 28+14 |
+|  |  |  |  | 网站中的flag | 100 | 24+9 |
+| Algorithm | prob10 | [→ rsa](../official_writeup/rsa/) | 口算大整数 | / | 300 | 12+9 |
 |  | prob11 | [→ vivo50](../official_writeup/vivo50/) | V我≈50 | / | 400 | 23+0 |
-| Binary | prob12 | [→ flagextractor](../official_writeup/flagextractor/) | 躺平flag提取器 | 我真的不到啊 | 200 | 50+0 |
-|  |  |  |  | 太美丽了家人们 | 400 | 27+0 |
-|  | prob13 | [→ flagextractor_fast](../official_writeup/flagextractor_fast/) | 躺平flag提取器 · 极速版 | 快速提取 | 300 | 18+0 |
-|  |  |  |  | 安全提取 | 300 | 19+0 |
+| Binary | prob12 | [→ flagextractor](../official_writeup/flagextractor/) | 躺平flag提取器 | 我真的不到啊 | 200 | 50+8 |
+|  |  |  |  | 太美丽了家人们 | 400 | 27+5 |
+|  | prob13 | [→ flagextractor_fast](../official_writeup/flagextractor_fast/) | 躺平flag提取器 · 极速版 | 快速提取 | 300 | 19+1 |
+|  |  |  |  | 安全提取 | 300 | 20+1 |
 
 “分值” 表示题目原始分值，实际分值取决于校内第一阶段通过人数。
 
@@ -42,46 +42,36 @@
 
 **[【→ 官方题解和源码】](../official_writeup/happy2023/)**
 
-<div class="well">
-<strong>出题人的话</strong>
-<br>
-<p>下面是某位出题人(n0pe)的一点悄悄话,这次比赛是希望大家从学习和工作中放松出出来，所以出的非常简单</p>
-<p>红包也不是很多，毕竟我也很穷，拿着这点钱买个泡泡糖吃或者买点炮放一下也不错</p>
-<p>如果你没能拿到红包，也可以看看窗外的烟花，这个免费</p>
-<p>希望能让你开心一会</p>
-<p>你有多久没有一个人好好放松一下了？一周？一个月？还是你自己都意识不到了？</p>
-<p>在这段假期里，好好休息休息吧，陪陪自己的家人，朋友</p>
-<p>旅途的意义不是抵达终点，所以不必匆忙，珍惜旅途的每一时刻</p>
-</div>
-<div class="well">
-<strong>出题人的话</strong>
-<br>
-<p>下面是某位出题人(ZianTT)的一点悄悄话</p>
-<p>本次题目的第一关（auth）确实出难了，这里我给大家道个歉</p>
-<p>如果让您的做题体验不太好，我真诚地说声抱歉，希望下一届躺平杯你能获得flag</p>
-<p>这次一部分红包也是我出的，虽然不多，可能连有些人压岁钱的千分之一都不到</p>
-<p>但是，这不就是图一乐吗？过年，就要开开心心滴吖</p>
-<p>希望大家都能收获快乐</o>
-<p>最后，祝大家新年快乐呐</p>
-</div>
+<p><strong>出题人的话</strong>   </p>
+<blockquote>
+<p>下面是某位出题人(n0pe)的一点悄悄话 <br>
+这次比赛是希望大家从学习和工作中放松出出来，所以出的非常简单 <br>
+红包也不是很多，毕竟我也很穷，拿着这点钱买个泡泡糖吃或者买点炮放一下也不错 <br>
+如果你没能拿到红包，也可以看看窗外的烟花，这个免费 <br>
+希望能让你开心一会 <br>
+你有多久没有一个人好好放松一下了？一周？一个月？还是你自己都意识不到了？ <br>
+在这段假期里，好好休息休息吧，陪陪自己的家人，朋友 <br>
+旅途的意义不是抵达终点，所以不必匆忙，珍惜旅途的每一时刻   </p>
+<p>下面是某位出题人(ZianTT)的一点悄悄话 <br>
+本次题目的第一关（auth）确实出难了，这里我给大家道个歉 <br>
+如果让您的做题体验不太好，我真诚地说声抱歉，希望下一届躺平杯你能获得flag <br>
+这次一部分红包也是我出的，虽然不多，可能连有些人压岁钱的千分之一都不到 <br>
+但是，这不就是图一乐吗？过年，就要开开心心滴吖 <br>
+希望大家都能收获快乐 <br>
+最后，祝大家新年快乐呐    </p>
+</blockquote>
 <p>今年的解谜，就从主办方<strong>精心</strong>开发的高级红包认证系统ARAS(Advanced Redpacket Authentic System)开始吧~</p>
 <p>什么？你问我怎么找到这个系统？你猜捏？</p>
 <!-- ARAS domain prob01.weilei.studio -->
-<div class="well">
-<strong>限时挑战</strong>
-<br>
-<p>本次活动已经结束，不再发放新红包，相关WP将统一公布至题解仓库。</p>
-</div>
-<div class="well">
-<strong>第二阶段提示</strong>
-<br>
-<p>更高级的验证叫JWT。</p>
-</div>
-<div class="well">
-<strong>第三阶段提示</strong>
-<br>
-<p>第二部分入口：https://ilrxbzij.weilei.studio/r3dp4cke7。</p>
-</div>
+
+<blockquote>
+<p><strong>限时挑战</strong>
+本次活动已经结束，不再发放新红包，相关WP将统一公布至题解仓库。   </p>
+<p><strong>第二阶段提示</strong>
+更高级的验证叫JWT。 </p>
+<p><strong>第三阶段提示</strong>
+第二部分入口：<a target="_blank" rel="noopener noreferrer" href="https://ilrxbzij.weilei.studio/r3dp4cke7">https://ilrxbzij.weilei.studio/r3dp4cke7</a></p>
+</blockquote>
 
 ## [Misc] 签到
 
@@ -92,6 +82,13 @@
 <strong>萌新入门</strong>
 <p>
 Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
+</p>
+</div>
+
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+Base100解密
 </p>
 </div>
 
@@ -109,11 +106,24 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 </p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+？
+</p>
+</div>
+
 ## [Misc] 二维的码
 
 **[【→ 官方题解和源码】](../official_writeup/2dcodes/)**
 
 <p>测测你的码（bushi）</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+汉信码，PDF417，Aztec……你可能需要一个能识别一切的网站？
+</p>
+</div>
 
 ## [Misc] 神秘的……文字？
 
@@ -122,6 +132,14 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 <p>喵喵喵喵</p>
 <p>咕咕咕咕咕咕咕咕~</p>
 <p>做不出来吧哈哈哈</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+1 - Base64改个表变成了XX加密
+2 - 签了个到？滴滴滴哒哒？
+3 - 嗷呜啊？听说鸽游又整了个什么解谜？去看看第一层咋解？
+</p>
+</div>
 
 ## [Web] HTTP百解
 
@@ -140,6 +158,13 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 </p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+你最后可能需要使用WebkitFrom传参？
+</p>
+</div>
+
 ## [Web] 躺平问答 · Beta版
 
 **[【→ 官方题解和源码】](../official_writeup/tpask_beta/)**
@@ -148,6 +173,12 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 <p>出题人的电脑被人工智能AGI攻破后，为了惩罚可恶的出题人，人工智能AGI对题目进行了修改，使得用户<strong>不需要做出所有题目</strong>就可以拿到flag</p>
 <p>但是由于奇怪的技术问题，服务器出现了某些bug，您可能需要做出你可能需要回答114514道题目才能获得一个一个一个flag啊啊啊啊啊啊啊啊啊啊</p>
 <p><img alt="" src="https://oss.wearos.me/file/wmtest/tangpingcup/2.png"></p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+submit了什么东西？解码看看？0是我做对的题数？那我能不能改掉？
+</p>
+</div>
 
 ## [Web] WearMe 核心机房 准入验证
 
@@ -157,6 +188,12 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 <p><img alt="" src="https://oss.wearos.me/file/wmtest/tangpingcup/3.gif"></p>
 <p>由于本站使用云火焰（Cloudflare）作为CDN，启动docker后可能需要几秒钟时间从CDN拉取资源，若提示GatewayError请等待30秒再刷新</p>
 <p>由于安全问题 您仅能从<strong>中国大陆</strong>访问这道题目</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+有个东西，叫万能密码~
+</p>
+</div>
 
 ## [Misc] 我抄，盒！
 
@@ -180,6 +217,13 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 <p>详见<a target="_blank" rel="noopener noreferrer" href="https://ctf-wiki.org/crypto/asymmetric/rsa/rsa_theory/">CTF-Wiki</a></p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+这个e，太小了罢
+</p>
+</div>
+
 ## [Algorithm] V我≈50
 
 **[【→ 官方题解和源码】](../official_writeup/vivo50/)**
@@ -198,6 +242,12 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 <p>v = 45 + random.random()*10</p>
 <p>target = "%1.2f" % v</p>
 </blockquote>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+这个种子，是时间？那我也可以生成一个一样的？
+</p>
+</div>
 
 ## [Binary] 躺平flag提取器
 
@@ -223,6 +273,13 @@ Saving to: ‘./flag’
 <p>这是一个Unix程序，你可以直接在命令行执行它。但是要想拿到它的内容，你似乎得反编译它？然后查看下它的……伪代码？</p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+rot13不仅rot了文字，还干了什么？看看源码？
+</p>
+</div>
+
 ## [Binary] 躺平flag提取器 · 极速版
 
 **[【→ 官方题解和源码】](../official_writeup/flagextractor_fast/)**
@@ -232,3 +289,9 @@ Saving to: ‘./flag’
 <p>本次比赛的域名同样也是来源于这位“古神”级的开发者</p>
 <p>由于味（魏）蕾（雷）大仙的app开发非常令人脑洞大开，所以本题致（嘲）敬（讽）了我们的味蕾同志</p>
 <p>flag就藏在app中，祝所有人新年快乐（魏大仙除外）</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+也许，直接改掉一个东西，比你分析代码要快？
+</p>
+</div>

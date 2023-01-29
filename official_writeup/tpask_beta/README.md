@@ -9,6 +9,12 @@
 <p>出题人的电脑被人工智能AGI攻破后，为了惩罚可恶的出题人，人工智能AGI对题目进行了修改，使得用户<strong>不需要做出所有题目</strong>就可以拿到flag</p>
 <p>但是由于奇怪的技术问题，服务器出现了某些bug，您可能需要做出你可能需要回答114514道题目才能获得一个一个一个flag啊啊啊啊啊啊啊啊啊啊</p>
 <p><img alt="" src="https://oss.wearos.me/file/wmtest/tangpingcup/2.png"></p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+submit了什么东西？解码看看？0是我做对的题数？那我能不能改掉？
+</p>
+</div>
 
 **【网页链接：访问题目网页】**
 

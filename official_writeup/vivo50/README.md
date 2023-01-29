@@ -19,6 +19,12 @@
 <p>v = 45 + random.random()*10</p>
 <p>target = "%1.2f" % v</p>
 </blockquote>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+这个种子，是时间？那我也可以生成一个一样的？
+</p>
+</div>
 
 **【网页链接：访问题目网页】**
 
