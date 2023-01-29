@@ -65,8 +65,8 @@
 
 ![1674633375488](assets/1674633375488.png)
 
-直接进行一个postman的请求   
-然后看到给了一个token和hint，臭小子（   
+直接进行一个postman的请求
+然后看到给了一个token和hint，臭小子（
 直接盲猜jwt，去jwt.io
 
 ![1674633823163](assets/1674633823163.png)
@@ -93,10 +93,11 @@ base64解码得到这个  https://ilrxbzij.weilei.studio/r3dp4cke7
 
 ![1674634100368](assets/1674634100368.png)
 
-然后来到pdd式助力环节，当然不是真正的助力，代砍也不能砍到127.0.0.1的ip   
-分析助力页面   
+然后来到pdd式助力环节，当然不是真正的助力，代砍也不能砍到127.0.0.1的ip
+分析助力页面
 
-**POST：https://ilrxbzij.weilei.studio/invite/90e85f2b-a001-4c4d-973a-6625ab51e11d**   
+**POST：https://ilrxbzij.weilei.studio/invite/90e85f2b-a001-4c4d-973a-6625ab51e11d**
 
-表单数据是 ip:xx.xx.xx.xx   
+表单数据是 ip:xx.xx.xx.xx
+
 直接用curl或者python写脚本批量交就好
