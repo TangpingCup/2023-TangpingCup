@@ -30,4 +30,32 @@
 
 ## 预期解法
 
-TODO: 出题人题解，后面可以按需增加更多的二级标题
+### 神之眼
+
+F12里可以看到flag1
+
+### 导引内卷之力
+
+首先打开burpsuite（CLI强迫症用户打开curl）
+
+> Please request me securely with Bytes Security Browser !
+
+User-Agent 设置成`Bytes Security Browser`
+
+> Hacker! You role isn't admin!
+
+返回了一个`role=ee11cbb19052e40b07aac0ca060c23ee`的 Cookie，[md5解密](https://www.cmd5.com/)下是`user`改成 admin 加密回去`role=21232f297a57a5a743894a0e4a801fc3`
+
+> Please request me with BYTES method!
+
+请求方法修改为`BYTES`
+
+> Please pass me form data
+> variable: fruit
+> value: (&#39;b&#39;+&#39;a&#39;++&#39;a&#39;+&#39;a&#39;).toLowerCase()
+> variable: token
+> value: Your Token From weilei.studio
+
+`('b'+'a'+ +'a'+'a').toLowerCase()`执行的结果是`banana`
+
+用 form-data 发下包就行
