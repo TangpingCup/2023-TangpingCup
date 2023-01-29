@@ -22,4 +22,12 @@
 
 ## 预期解法
 
-TODO: 出题人题解，后面可以按需增加更多的二级标题
+反编译apk，分析逻辑后得是否提取flag是根据isCrack函数返回值判断的
+
+我们可以修改isCrack的return为true
+
+在手机上安装后，即可得到flag1
+
+反编译或者直接解压apk文件，找到了libmain.so
+
+丢进IDA反编译得flag2
