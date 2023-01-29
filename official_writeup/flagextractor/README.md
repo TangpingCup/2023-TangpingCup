@@ -26,6 +26,13 @@ Saving to: ‘./flag’
 <p>这是一个Unix程序，你可以直接在命令行执行它。但是要想拿到它的内容，你似乎得反编译它？然后查看下它的……伪代码？</p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+rot13不仅rot了文字，还干了什么？看看源码？
+</p>
+</div>
+
 **[【附件：下载题目附件（reverseme）】](attachment/reverseme)**
 
 ## 预期解法

@@ -12,6 +12,13 @@
 <p>详见<a target="_blank" rel="noopener noreferrer" href="https://ctf-wiki.org/crypto/asymmetric/rsa/rsa_theory/">CTF-Wiki</a></p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+这个e，太小了罢
+</p>
+</div>
+
 **[【附件：下载题目附件（easiest_rsa.py）】](attachment/easiest_rsa.py)**
 
 ## 预期解法

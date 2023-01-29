@@ -13,6 +13,13 @@ Base64为什么叫Base64呢？有没有Base16，Base32，Base……？
 </p>
 </div>
 
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+Base100解密
+</p>
+</div>
+
 **[【附件：下载题目附件（checkin.pdf）】](attachment/checkin.pdf)**
 
 ## 预期解法

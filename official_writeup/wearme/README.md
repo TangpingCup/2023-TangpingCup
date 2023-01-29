@@ -10,6 +10,12 @@
 <p><img alt="" src="https://oss.wearos.me/file/wmtest/tangpingcup/3.gif"></p>
 <p>由于本站使用云火焰（Cloudflare）作为CDN，启动docker后可能需要几秒钟时间从CDN拉取资源，若提示GatewayError请等待30秒再刷新</p>
 <p>由于安全问题 您仅能从<strong>中国大陆</strong>访问这道题目</p>
+<div class="well">
+<strong>第二阶段提示</strong>
+<p>
+有个东西，叫万能密码~
+</p>
+</div>
 
 **【网页链接：访问题目网页】**
 
