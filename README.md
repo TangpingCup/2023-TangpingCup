@@ -8,10 +8,6 @@ by Bytes Security
 
 主页：[weilei.studio](https://weilei.studio)
 
-# 他妈的，请在生产环境（master）里删除所有目录下的.gitkeep文件，gitkeep只是为了他妈的push空文件夹结构
-# master目前是空的，merge过去的时候记得删掉这些垃圾文字
-# 他妈不然脸就丢大了（）
-
 ## 组织单位
 
 **主办单位：**
@@ -23,8 +19,6 @@ by Bytes Security
 - bitF1a5h Corporation
 - WearMe
 
-
-
 ## 资料存档
 
 - [problemset](problemset/)：题目列表
@@ -33,8 +27,6 @@ by Bytes Security
 - [ranking](ranking)：排行榜
 - [announcements](announcements/)：比赛公告
 - [staff](staff/)：工作人员名单
-
-
 
 ## License
 
@@ -45,4 +37,3 @@ by Bytes Security
 题目源码采用 [BSD 许可协议](https://opensource.org/licenses/BSD-3-Clause) 进行许可。
 
 排行榜和比赛公告不允许未授权使用。
-
