@@ -2,6 +2,15 @@
 
 | 选手 | 公开理由 | 总分 | 授权 | Misc | Web | Binary | Algorithm | Happy2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [御坂美琴](54/) | 选手要求 | 4526 | All-Rights-Reserved | `PPPPPP` | `PPP` | `PP` | `PP` | `P` |
+| [hangyi](126/) | 选手要求 | 3889 | CC-BY-NC | `PPPPPP` | `PPP` | `PP` | `PP` | `P` |
+| [平芜尽处外](50/) |  | 3355 | CC-BY-NC | `PP1P2P` | `PP1` | `PP` | `PP` | `P` |
+| [TokameinE](95/) |  | 3098 | CC-BY-NC | `PPP22P` | `PP-` | `PP` | `PP` | `P` |
+| [最爱吃兽奶](96/) |  | 2575 | CC-BY-NC | `PP-P-P` | `PP1` | `PP` | `PP` | `P` |
+| [Xtzzzz](119/) | 选手要求 | 2493 | CC-BY-NC | `PPPP-P` | `1P-` | `PP` | `PP` | `P` |
+| [我是fvv](53/) |  | 2096 | CC-BY-NC | `PP---P` | `PP-` | `PP` | `PP` | `P` |
+| [666](72/) |  | 911 | CC-BY-NC | `PP---P` | `1--` | `1-` | `-P` | `P` |
+| [tgrddf55](163/) |  | 551 | CC-BY-NC | `PP----` | `---` | `PP` | `--` | `-` |
 
 **关于授权方式：**
 

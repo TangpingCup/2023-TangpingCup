@@ -1,0 +1,10 @@
+签退：傻子乱填都能过
+Happy2023：等提示入口后 用小黄鸟重发修改后的post请求达到助力的效果
+签到：你小子不会base100逝吧🤬
+HTTP百解：1.F12 2.用小黄鸟伪造UA 伪造cookies 请求方式改为BYTES 发送的body根据提示改为xx=xx&xx=xx的形式
+躺平问答 · Beta版：随便提交后result后base64解码为[your token]㇑0 将0改成114514加密回去填入result
+我抄，盒！：你小子不会看EXIF逝吧🤬
+口算大整数：一个低指数攻击就可以在0.114514ms解出来（
+V我≈50：小黄鸟抓取接受包时间戳 填入题目所示算法可算出V我？？#你也没V啊
+躺平flag提取器：1.直接文本打开看到flag 2.synt{}用rot18(rot13+rot5？)解密得到flag
+躺平flag提取器 · 极速版：1.apk解包后文本打开lib中某个so文件 找到flag 2.反编译dex发现flag被打乱 重新还原得到flah
