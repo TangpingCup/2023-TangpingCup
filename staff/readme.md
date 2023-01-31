@@ -3,7 +3,9 @@
 | 总策划                      | N0pe                     |
 | 验题组负责人                 | nu11plex                 |
 | 命题组负责人                 | ZianTT                   |
-| 命题组成员                   | ZianTT N0pe AI丿质子     |
+| 命题组成员                   | ZianTT                   |
+| 命题组成员                   | N0pe                    |
+| 命题组成员                   | AI丿质子                 |
 | 域名提供                     | N0pe                    |
 | 服务器提供                   | N0pe Landme             |
 | 附件系统                     | N0pe                    |
