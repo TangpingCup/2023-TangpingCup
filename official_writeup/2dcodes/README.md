@@ -25,7 +25,6 @@
 
 ## 预期解法
 
-# 解
 下载附件，得到flag1.zip
 
 ```console
@@ -70,5 +69,3 @@ pass.gif一眼GS1 Databar Composite，扫码得到
 >11451419198103|Year2023Password
 
 part1和part2组合，根据提示，兔子=>Rabbit，解码即可得到flag3
-
-注：解密时，请勿删除回车
